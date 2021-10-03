@@ -4,7 +4,7 @@
 ](https://lab.github.com/)
 
 
-# My Social media Sites
+# My Social media Accounts
 [Dribble](https://dribbble.com/Anees101) 
 
 [Git Hub](https://github.com/Anees101) 
