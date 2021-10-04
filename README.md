@@ -33,3 +33,16 @@ Shopify,
 
 
 # Skill Devlopment
+
+https://www.youtube.com/watch?v=rs_PuSbHUpQ
+Coding 
+grafic Designing
+Animation 
+influnfer marketing 
+digital marketing
+web dev
+app dev
+social media 
+
+
+
