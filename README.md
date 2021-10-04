@@ -11,3 +11,25 @@
 
 [Vimeo](https://vimeo.com/Anees) 
 
+
+
+
+# Task to compleate 
+
+Creata this Accounts,
+Twitter,
+Facebook,
+Figma,
+Instagram,
+Creative Market,
+CodePen,
+Medium,
+Behance,
+LinkedIn,
+YouTube,
+Tumblr,
+Pinterest,
+Shopify,
+
+
+# Skill Devlopment
