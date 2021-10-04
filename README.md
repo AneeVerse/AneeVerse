@@ -32,7 +32,11 @@ Pinterest,
 Shopify,
 
 
+
 # Skill Devlopment
+
+finish insurance e exam
+
 
 https://www.youtube.com/watch?v=rs_PuSbHUpQ
 Coding 
@@ -43,6 +47,24 @@ digital marketing
 web dev
 app dev
 social media 
+
+
+
+freelancer/ upwork / nokri.com / internshala 
+
+video editior
+animator
+grafic designer
+web devlopment
+seo
+ui
+
+copy writing
+reanscribing (transcribe me, rev, screaby,)
+
+
+# Learn Skill with certificate
+eskill India
 
 
 
