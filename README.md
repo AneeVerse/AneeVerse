@@ -62,6 +62,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
 
+<!-- Stats -->
+<p align="center">
+  <a href="https://github.com/anees101?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anees101&layout=compact&theme=merko&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/anees101?tab=repositories">
+    <img
+      align="center"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api?username=anees101&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=merko&count_private=true"
+    />
+  </a>
+</p>
+
 
 
 ## 📈 GitHub Stats & Graph
