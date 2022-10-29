@@ -57,8 +57,8 @@
 <p><a href="https://www.buymeacoffee.com/aneesane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aneesane" /></a></p><br><br><br>
 
 
-
-<p>
+<!-- Stats -->
+<p al>
     <a href="https://github.com/anees101?tab=repositories">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10" alt="anees101" />
     </a>
@@ -69,22 +69,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
 
-<!-- Stats -->
-<p align="center">
-  <a href="https://github.com/anees101?tab=repositories">
-    <img height="150"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&layout=compact&theme=merko&count_private=true"
-    />
-  </a>
-  <a href="https://github.com/anees101?tab=repositories">
-    <img height="150"
-      align="center"
-      height="140"
-      src="https://github-readme-stats.vercel.app/api?username=anees101&count_private=true&show_icons=true&custom_title=Github%20Status&theme=merko&count_private=true"
-    />
-  </a>
-</p>
 
 
 
