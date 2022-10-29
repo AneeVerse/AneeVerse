@@ -4,9 +4,19 @@
 </h1>
 <br/>
 
+<!-- Picture -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-<h3 align="center">A passionate tech savy & frontend developer from India</h3>
-<h1 align="center">🍂 visit my website portfolio  <a href="https://anees.ml">Anees.ml</a>🍁</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Big+Data+;I+am++into++Computer+Vision;I+am++into++Artificial+Intelligence!!&center=true&width=380&height=45"></a>
+</p>
+
+<h2 align="center">🍂 visit my website portfolio  <a href="https://anees.ml">Anees.ml</a>🍁</h2>
+<h1 align="center"></h1>
 
 
 
