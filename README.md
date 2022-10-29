@@ -1,6 +1,6 @@
 <!-- Greetings -->
 <h1 align="center">
-	<b>Hi👋, I'm <u>𝔸ℕ𝔼𝔼𝕊</u>😇 Welcome to my profile!</b>
+	<b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <u>𝔸ℕ𝔼𝔼𝕊</u>😇 Welcome to my profile!</b>
 </h1>
 <br/>
 
