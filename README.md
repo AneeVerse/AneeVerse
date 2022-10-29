@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm 𝔸ℕ𝔼𝔼𝕊😇</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <h1 align="center">🍂 visit my website portfolio  <a href="https://anees.ml">Anees.ml</a>🍁</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anees101&label=Profile%20views&color=0e75b6&style=flat" alt="anees101" /></p>
