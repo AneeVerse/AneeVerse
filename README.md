@@ -69,18 +69,12 @@
     <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=merko&border_radius=20.0" alt="anees101" />
 </p>
 
-<!-- Hover option 2 -->
-<p></p>
 
-
-
-
+<!-- Activity Graph -->
 ## 📈 GitHub Stats & Graph
 <p align="center">
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=anees101&theme=xcode"></p>
-
-
+[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anees101&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/anees101)
 
 
 
