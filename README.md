@@ -74,14 +74,13 @@
   <a href="https://github.com/anees101?tab=repositories">
     <img height="150"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anees101&layout=compact&theme=merko&count_private=true"
     />
   </a>
   <a href="https://github.com/anees101?tab=repositories">
     <img height="150"
       align="center"
-      height="140"
-      src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true"
+      src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&custom_title=Github%20Status&theme=chartreuse-dark&count_private=true"
     />
   </a>
 </p>
