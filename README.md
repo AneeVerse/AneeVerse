@@ -97,8 +97,7 @@
 <p align="center">
 
 [![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anees101&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/anees101)
-
-
+</p>
 
 <!-- centre button links to top -->
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top 👆🏼&color=076e0f&style=flat&logo" width="35%" alt="Back to top" /></a></p>
