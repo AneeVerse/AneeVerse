@@ -67,6 +67,12 @@
     </a>
 </p>
 
+<!-- Hover option 2 -->
+<br/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+ <br/>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
 
 
