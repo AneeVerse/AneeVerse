@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en" alt="anees101" /></p>
 
-<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&" alt="anees101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&" alt="anees101" /></p>
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340c463&width=500&height=30&lines=I+love+Pascal+and+have+been+programming;in+it+for+more+than+25+years.)](https://git.io/typing-svg) -->
