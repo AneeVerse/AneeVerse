@@ -65,13 +65,13 @@
 <!-- Stats -->
 <p align="center">
   <a href="https://github.com/anees101?tab=repositories">
-    <img height="90%"
+    <img height="80%"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anees101&layout=compact&theme=merko&count_private=true"
     />
   </a>
   <a href="https://github.com/anees101?tab=repositories">
-    <img height="90%"
+    <img height="80%"
       align="center"
       height="140"
       src="https://github-readme-stats.vercel.app/api?username=anees101&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=merko&count_private=true"
