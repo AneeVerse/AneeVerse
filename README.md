@@ -74,13 +74,13 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/512px-Adobe_Premiere_Pro_Logo.svg.png?20170508164447" alt="xd" width="40" height="40"/> </a> </p>
 
-<h1 align="center"></h1>
 
 <!-- Support -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aneesane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aneesane" /></a></p><br><br><br>
 
 
+<h1 align="center"></h1>
 <!-- Stats -->
 <p align="center">
     <a href="https://github.com/anees101?tab=repositories">
@@ -100,6 +100,8 @@
 
 [![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anees101&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/anees101)
 </p>
+<h1 align="center"></h1>
+
 
 <!-- centre button links to top -->
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top 👆🏼&color=076e0f&style=flat&logo" width="35%" alt="Back to top" /></a></p>
