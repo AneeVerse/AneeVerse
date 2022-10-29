@@ -85,7 +85,7 @@
 
 
 <!-- centre button links to top -->
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top 👆🏼&color=076e0f&style=flat&logo" width="20%" alt="Back to top" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top 👆🏼&color=076e0f&style=flat&logo" width="35%" alt="Back to top" /></a></p>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340c463&width=500&height=30&lines=I+love+Pascal+and+have+been+programming;in+it+for+more+than+25+years.)](https://git.io/typing-svg) -->
 
