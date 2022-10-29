@@ -73,7 +73,7 @@
  <br/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
+<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=merko&border_radius=30.0" alt="anees101" /></p>
 
 
 
