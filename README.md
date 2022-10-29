@@ -58,7 +58,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
 
