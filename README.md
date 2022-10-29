@@ -65,7 +65,7 @@
     <a href="https://github.com/anees101?tab=repositories">
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true&border_radius=20.0" alt="anees101" />
     </a>
-    &nbsp &nbsp &nbspa
+    &nbsp &nbsp &nbsp
     <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=merko&border_radius=20.0" alt="anees101" />
 </p>
 
