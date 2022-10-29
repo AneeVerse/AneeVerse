@@ -60,19 +60,14 @@
 <!-- Stats -->
 <p al>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10" alt="anees101" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10" alt="anees101" />
     </a>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true" alt="anees101" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true" alt="anees101" />
     </a>
 </p>
 
 <!-- Hover option 2 -->
-<br/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
- <br/>
-
-
 <p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=merko&border_radius=30.0" alt="anees101" /></p>
 
 
