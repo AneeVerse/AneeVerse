@@ -64,7 +64,7 @@ reanscribing (transcribe me, rev, screaby,)
 
 
 # Learn Skill with certificate
-eskill India
+<!-- eskill India -->
 
 
 
