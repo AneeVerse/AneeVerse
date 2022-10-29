@@ -20,7 +20,7 @@
     &center=true&width=380&height=45"></a>
 </p>
 
-<h2 align="center">🍂 visit my website portfolio  <a href="https://anees.ml">Anees.ml</a>🍁</h2>
+<h2 align="center">🍂 visit my Website Portfolio/ Resume  <a href="https://anees.ml">Anees.ml</a>🍁</h2>
 <h1 align="center"></h1>
 
 
