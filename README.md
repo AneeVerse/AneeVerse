@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm 𝔸ℕ𝔼𝔼𝕊😇</h1>
+<!-- Greetings -->
+<h1 align="center">
+	<b>Hi👋, I'm <u>𝔸ℕ𝔼𝔼𝕊</u>😇 Welcome to my profile!</b>
+</h1>
+<br/>
+
+
 <h3 align="center">A passionate tech savy & frontend developer from India</h3>
 <h1 align="center">🍂 visit my website portfolio  <a href="https://anees.ml">Anees.ml</a>🍁</h1>
 
