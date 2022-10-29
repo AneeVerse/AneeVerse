@@ -5,7 +5,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anees101&label=Profile%20views&color=0e75b6&style=flat" alt="anees101" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anees101&
+label=Profile%20views&color=0e75b6&style=flat" alt="anees101" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anees101" alt="anees101" /></a> </p>
 
@@ -56,16 +57,25 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aneesane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aneesane" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact" alt="anees101" /></p> 
 
-<p>&nbsp;<img align="center" width="430"  src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en" alt="anees101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&" alt="anees101" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=chartreuse-dark&border_radius=30.0" alt="anees101" /></p>
+
+
+## 📈 GitHub Stats & Graph
+<p align="center">
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=anees101&theme=xcode"></p>
+
+
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340c463&width=500&height=30&lines=I+love+Pascal+and+have+been+programming;in+it+for+more+than+25+years.)](https://git.io/typing-svg) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=guvacode&style=flat-square) -->
 
 
 
