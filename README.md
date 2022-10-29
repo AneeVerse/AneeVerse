@@ -60,10 +60,10 @@
 
 <p>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" />
     </a>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" />
     </a>
 </p>
 
