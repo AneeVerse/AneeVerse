@@ -60,10 +60,10 @@
 
 <p>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="anees101" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10" alt="anees101" />
     </a>
     <a href="https://github.com/anees101?tab=repositories">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="anees101" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true" alt="anees101" />
     </a>
 </p>
 
@@ -74,13 +74,14 @@
   <a href="https://github.com/anees101?tab=repositories">
     <img height="150"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anees101&layout=compact&theme=merko&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&layout=compact&theme=merko&count_private=true"
     />
   </a>
   <a href="https://github.com/anees101?tab=repositories">
     <img height="150"
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&custom_title=Github%20Status&theme=chartreuse-dark&count_private=true"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api?username=anees101&count_private=true&show_icons=true&custom_title=Github%20Status&theme=merko&count_private=true"
     />
   </a>
 </p>
