@@ -5,11 +5,17 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anees101&label=Profile%20views&color=0e75b6&style=flat" alt="anees101" /></p>
+<!-- Social badges section -->
+ <p align="center">
+	<a href="https://github.com/anees101/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=anees101&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+	<a href="https://github.com/anees101?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/anees101"/></a>
+  <a href="https://github.com/anees101?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/anees101?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anees101" alt="anees101" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
