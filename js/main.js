@@ -1,13 +1,3 @@
-/* -------------------------------------------
-
-Name: 		Arter
-Version:  1.0
-Author:		Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
-
-------------------------------------------- */
 $(function() {
 
   "use strict";
@@ -15,7 +5,7 @@ $(function() {
   const options = {
     containers: ["#swup", "#swupMenu"],
     animateHistoryBrowsing: true,
-    linkSelector: 'a:not([data-no-swup])'
+    // linkSelector: 'a:not([data-no-swup])'
   };
   const swup = new Swup(options);
 
@@ -102,7 +92,6 @@ $(function() {
   });
 
   // progressbars
-
   // var bar = new ProgressBar.Circle(circleprog1, {
   //   strokeWidth: 7,
   //   easing: 'easeInOut',
@@ -118,7 +107,6 @@ $(function() {
   //     }
   //   }
   // });
-
   // bar.animate(1);
 
   // var bar = new ProgressBar.Circle(circleprog2, {
@@ -136,7 +124,6 @@ $(function() {
   //     }
   //   }
   // });
-
   // bar.animate(0.9);
 
   // var bar = new ProgressBar.Circle(circleprog3, {
@@ -154,8 +141,25 @@ $(function() {
   //     }
   //   }
   // });
+  // bar.animate(0.7);
 
-  bar.animate(0.7);
+
+  var bar = new ProgressBar.Line(lineprog0, {
+    strokeWidth: 1.72,
+    easing: 'easeInOut',
+    duration: 1400,
+    delay: 3200,
+    trailWidth: 1.72,
+    svgStyle: {
+      width: '100%',
+      height: '100%'
+    },
+    step: (state, bar) => {
+      bar.setText(Math.round(bar.value() * 100) + ' %');
+    }
+  });
+
+  bar.animate(.70);
 
   var bar = new ProgressBar.Line(lineprog1, {
     strokeWidth: 1.72,
@@ -172,7 +176,7 @@ $(function() {
     }
   });
 
-  bar.animate(.9);
+  bar.animate(.80);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -189,7 +193,7 @@ $(function() {
     }
   });
 
-  bar.animate(.95);
+  bar.animate(.75);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -206,41 +210,12 @@ $(function() {
     }
   });
 
-  bar.animate(.75);
+  bar.animate(.90);
 
-  var bar = new ProgressBar.Line(lineprog4, {
-    strokeWidth: 1.72,
-    easing: 'easeInOut',
-    duration: 1400,
-    delay: 3100,
-    trailWidth: 1.72,
-    svgStyle: {
-      width: '100%',
-      height: '100%'
-    },
-    step: (state, bar) => {
-      bar.setText(Math.round(bar.value() * 100) + ' %');
-    }
-  });
 
-  bar.animate(.65);
 
-  var bar = new ProgressBar.Line(lineprog5, {
-    strokeWidth: 1.72,
-    easing: 'easeInOut',
-    duration: 1400,
-    delay: 3200,
-    trailWidth: 1.72,
-    svgStyle: {
-      width: '100%',
-      height: '100%'
-    },
-    step: (state, bar) => {
-      bar.setText(Math.round(bar.value() * 100) + ' %');
-    }
-  });
 
-  bar.animate(.85);
+
 
   // Contact form
   $('.art-input').keyup(function() {
