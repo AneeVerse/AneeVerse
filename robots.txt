@@ -1,0 +1,38 @@
+User-agent: AneeVerse*
+Disallow:
+
+User-agent: *
+Disallow: /comment
+Disallow: /get_video
+Disallow: /get_video_info
+Disallow: /get_midroll_info
+Disallow: /live_chat
+Disallow: /login
+Disallow: /results
+Disallow: /signup
+Disallow: /t/terms
+Disallow: /timedtext_video
+Disallow: /verify_age
+Disallow: /watch_ajax
+Disallow: /watch_fragments_ajax
+Disallow: /watch_popup
+Disallow: /watch_queue_ajax
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /vendor/
+Disallow: /docs/
+Disallow: /downloads/
+Disallow: /uploads/
+Disallow: /cgi-bin/
+Disallow: /error/
+Disallow: /includes/
+Disallow: /scripts/
+
+Sitemap: https://www.anee.ml/sitemap.xml
