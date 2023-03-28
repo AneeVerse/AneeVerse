@@ -513,7 +513,7 @@ app marcup
     height: 100%;
     width: 100%;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 40, 58, 0.93)), color-stop(70%, rgba(0, 40, 58, 0.96)), color-stop(80%, rgba(0, 40, 58, 0.99)), to(#00283a));
-    background-image: linear-gradient(180deg, rgba(0, 40, 58, 0.93) 0%, rgba(0, 40, 58, 0.96) 70%, rgba(0, 40, 58, 0.99) 80%, #00283a 100%); }
+    background-image: linear-gradient(180deg, rgba(2, 22, 43, 0.93) 0%, rgba(2, 22, 43, 0.96) 70%, rgba(2, 22, 43, 0.99) 80%, #00283a 100%); }
 
 /* ----- preloader ----- */
 /* line 24, ../scss/_markup.scss */
