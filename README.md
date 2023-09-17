@@ -44,46 +44,46 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Few of my projects 
-**My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website** <br>
+**My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse)   **<-- My Website** <br>
 
 
-<p style="text-align: center;"><u><b>COMMERCIAL WEBSITE</u></b></p>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **COMMERCIAL WEBSITE**
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
-$~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Shree Hospital](https://aneeverse.github.io/ShreeHospital)
+$~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Nemat Consultancy](https://aneeverse.github.io/Nemat_Consultancy) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse/)
+**Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse)
 $~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [The_Brokerz](https://aneeverse.github.io/WebSites/The_Brokerz) <br>
 
 
 
-<p style="text-align: center;"><u><b>PERSONAL PORTFOLIO WEBSITE</u></b></p>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **PERSONAL PORTFOLIO WEBSITE**
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2/)
+**Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2)
 $~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Anees Portfolio](https://aneeverse.github.io/WebSites/Anees_Portfolio) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Amishi Portfolio](https://aneeverse.github.io/WebSites/Amishi_Portfolio/)
+**Web:** [Amishi Portfolio](https://aneeverse.github.io/WebSites/Amishi_Portfolio)
 $~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Ankit Portfolio](https://aneeverse.github.io/WebSites/Ankit_portfolio) <br>
 
 
-<p style="text-align: center;"><u><b>STORE WEBSITE</u></b></p>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **STORE WEBSITE**
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Meal1](https://aneeverse.github.io/WebSites/Meal1/)
+**Web:** [Meal1](https://aneeverse.github.io/WebSites/meal1/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [eBay-Discription-Template](https://aneeverse.github.io/WebSites/eBay-Discription-Template) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Meal2](https://aneeverse.github.io/WebSites/Meal2/)
+**Web:** [Meal2](https://aneeverse.github.io/WebSites/meal2/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Creamery](https://aneeverse.github.io/WebSites/Creamery) <br>
+**Web:** [Creamery](https://aneeverse.github.io/WebSites/creamery) <br>
 
-<p style="text-align: center;"><u><b>DOCUMENT WEBSITE (INCLUDE DATABASE)</u></b></p>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **DOCUMENT WEBSITE (INCLUDE DATABASE)**
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [GRA_Certificate](https://aneeverse.github.io/WebSites/GRA_Certificate/)
