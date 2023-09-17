@@ -43,7 +43,33 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [anees.ml](anees.ml)
+- 👨‍💻 Few of my projects 
+**My Website -->** [AneeVerse ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website**
+<br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+**Website** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
+$~~~~~~~~~~$ **GitHub Page** [Shree Hospital ](https://github.com/AneeVerse/ShreeHospital)
+<br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Website** [Nemat Consultancy](https://aneeverse.github.io/Nemat_Consultancy/)
+$~~~$ **GitHub Page** [Nemat Consultancy](https://github.com/AneeVerse/Nemat_Consultancy)
+<br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Website** [Ankit Portfolio](https://aneeverse.github.io/Ankit_portfolio/)
+$~~~~~~~~~~~$ **GitHub Page** [Ankit Portfolio](https://github.com/AneeVerse/Ankit_portfolio)
+<br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Website** [My 1st Portfolio](https://aneeverse.github.io/portfolio/)
+$~~~~~~~~~$ **GitHub Page** [My 1st Portfolio](https://github.com/AneeVerse/portfolio)
+<br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Website** [AneeVerse2](https://aneeverse.github.io/AneeVerse2/)
+$~~~~~~~~~~~~~~~$ **GitHub Page** [AneeVerse2](https://github.com/AneeVerse/AneeVerse2)
+
+
+
+
+
 
 - 📫 How to reach me **4d.x.art@gmail.com**
 
@@ -93,7 +119,12 @@
 <p><a href="https://www.buymeacoffee.com/aneesane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aneesane" /></a></p><br><br><br>
 
 
+
 <h1 align="center"></h1>
+
+<!-- Activity Graph -->
+## 📈 GitHub Stats & Graph
+<p align="center">
 <!-- Stats -->
 <p align="center">
     <a href="https://github.com/AneeVerse?tab=repositories">
@@ -107,12 +138,10 @@
 </p>
 
 
-<!-- Activity Graph -->
-## 📈 GitHub Stats & Graph
-<p align="center">
 
-[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=AneeVerse&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/AneeVerse)
-</p>
+
+
+
 <h1 align="center"></h1>
 
 
