@@ -22,17 +22,23 @@
 
 <!-- Social badges section -->
  <p align="center">
-	<a href="https://github.com/anees101/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=anees101&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/anees101?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/anees101"/></a>
-  <a href="https://github.com/anees101?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/anees101?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	<a href="https://github.com/AneeVerse/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AneeVerse&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+	<a href="https://github.com/AneeVerse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AneeVerse"/></a>
+  <a href="https://github.com/AneeVerse?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AneeVerse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 
 
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anees101&theme=onedark" alt="anees101" /></a> </p>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AneeVerse&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 - 🌱 I’m currently learning **Python**
@@ -47,7 +53,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Anees101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anees_ane__" height="30" width="40" /></a>
+<a href="https://github.com/AneeVerse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anees_ane__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmad-anees-754994230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-anees-754994230" height="30" width="40" /></a>
 <a href="https://instagram.com/anees_ane__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anees_ane__" height="30" width="40" /></a>
 <a href="https://wa.me/+919029605529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="anees_ane__" height="30" width="40" /></a>
@@ -68,7 +74,6 @@
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -91,14 +96,14 @@
 <h1 align="center"></h1>
 <!-- Stats -->
 <p align="center">
-    <a href="https://github.com/anees101?tab=repositories">
-    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anees101&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10&border_radius=20.0" alt="anees101" />
+    <a href="https://github.com/AneeVerse?tab=repositories">
+    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AneeVerse&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=10&border_radius=20.0" alt="AneeVerse" />
     </a>
-    <a href="https://github.com/anees101?tab=repositories">
-    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=anees101&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true&border_radius=20.0" alt="anees101" />
+    <a href="https://github.com/AneeVerse?tab=repositories">
+    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=AneeVerse&show_icons=true&locale=en&theme=merko&include_all_commits=false&private_count=true&border_radius=20.0" alt="AneeVerse" />
     </a>
     &nbsp &nbsp &nbsp &nbsp
-    <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anees101&theme=merko&border_radius=20.0" alt="anees101" />
+    <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AneeVerse&theme=merko&border_radius=20.0" alt="AneeVerse" />
 </p>
 
 
@@ -106,7 +111,7 @@
 ## 📈 GitHub Stats & Graph
 <p align="center">
 
-[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anees101&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/anees101)
+[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=AneeVerse&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/AneeVerse)
 </p>
 <h1 align="center"></h1>
 
@@ -139,9 +144,9 @@
 
 
 # My Social media Accounts
-[Dribble](https://dribbble.com/Anees101) 
+[Dribble](https://dribbble.com/AneeVerse) 
 
-[Git Hub](https://github.com/Anees101) 
+[Git Hub](https://github.com/AneeVerse) 
 
 [Vimeo](https://vimeo.com/Anees) 
 
