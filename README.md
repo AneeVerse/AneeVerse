@@ -47,45 +47,41 @@
 **My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse)   **<-- My Website** <br>
 
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **COMMERCIAL WEBSITE**
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**COMMERCIAL WEBSITE**
+$~~~~~~~~~~~~~~~~~$ 
 **Web:** [Shree Hospital](https://aneeverse.github.io/ShreeHospital)
 $~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Nemat Consultancy](https://aneeverse.github.io/Nemat_Consultancy) <br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse)
 $~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [The_Brokerz](https://aneeverse.github.io/WebSites/The_Brokerz) <br>
 
 
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **PERSONAL PORTFOLIO WEBSITE**
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**PERSONAL PORTFOLIO WEBSITE**
+$~~~~$ 
 **Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse)
 $~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Anees Portfolio](https://aneeverse.github.io/WebSites/Anees_Portfolio) <br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2)
 $~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Ankit Portfolio](https://aneeverse.github.io/WebSites/Ankit_portfolio) <br>
 
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **STORE WEBSITE**
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**STORE WEBSITE**
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal1](https://aneeverse.github.io/WebSites/meal1/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [eBay-Discription-Template](https://aneeverse.github.io/WebSites/eBay-Discription-Template) <br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal2](https://aneeverse.github.io/WebSites/meal2/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Creamery](https://aneeverse.github.io/WebSites/creamery) <br>
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **DOCUMENT WEBSITE (INCLUDE DATABASE)**
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**DOCUMENT WEBSITE**
+$~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [GRA_Certificate](https://aneeverse.github.io/WebSites/GRA_Certificate/)
 $~~~~~~~~~~~~~~~~~~$ 
 **Web:** [GRA_Certificate_02](https://aneeverse.github.io/AneeVerse/GRA_Certificate_02) <br>
@@ -95,9 +91,9 @@ $~~~~~~~~~~~~~~~~~~$
 
 - 📫 How to reach me **4d.x.art@gmail.com**
 
-- 📄 Know about my experiences [AneeVerse](https://aneeverse.github.io/AneeVerse/AneeVerse)
+- 📄 Know about my experiences [AneeVerse](https://aneeverse.github.io/AneeVerse)
 
-- 📄 My Resume (CV) [Anees Portfolio](https://aneeverse.github.io/AneeVerse/WebSites/Anees_Portfolio)
+- 📄 My Resume (CV) [Anees Portfolio](https://aneeverse.github.io/WebSites/Anees_Portfolio)
 
 - ⚡ Fun fact **I have learned all about tech by myself, I would Like if you help me getting the recourses for gathering more knowledge**
 
