@@ -1,6 +1,6 @@
 <!-- Greetings -->
 <h1 align="center">
-	<b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <u>𝔸ℕ𝔼𝔼𝕊</u>😇 Welcome to my profile!</b>
+	<b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Self <u>Ahmad Anees</u>😇 Welcome to my profile!</b>
 </h1>
 <br/>
 
@@ -15,7 +15,7 @@
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++computer+Science;I+am++into++Digital+Learning;I+am++into++Tech+&+automaation;I+am++into++Computer+Vision;I+am++into++Artificial+Intelligence!!&center=true&width=380&height=45"></a>
 </p>
 
-<h2 align="center">🍂 visit my Website Portfolio/ Resume  <a href="https://anee.ml">Anee.ml</a>🍁</h2>
+<h2 align="center">🍂 visit my Website Portfolio/ Resume  <a href="https://aneeverse.github.io/AneeVerse/">AneeVerse</a>🍁</h2>
 
 
 
