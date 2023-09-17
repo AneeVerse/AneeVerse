@@ -89,7 +89,7 @@ $~~~~~~~~~~~~~~~~~~$
 
 
 
-- 📫 How to reach me **4d.x.art@gmail.com**
+- 📫 How to reach me **4d.x.art@gmail.com** <-->  [**WhatsApp**](https://wa.me/+919029605529)
 
 - 📄 Know about my experiences [AneeVerse](https://aneeverse.github.io/AneeVerse)
 
