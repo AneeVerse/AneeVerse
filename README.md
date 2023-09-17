@@ -77,27 +77,27 @@ $~~~~~~~~~~~~~~~~~~$
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal1](https://aneeverse.github.io/WebSites/Meal1/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [eBay-Discription-Template](https://github.com/WebSites/eBay-Discription-Template) <br>
+**Web:** [eBay-Discription-Template](https://aneeverse.github.io/WebSites/eBay-Discription-Template) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal2](https://aneeverse.github.io/WebSites/Meal2/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Creamery](https://github.com/WebSites/Creamery) <br>
+**Web:** [Creamery](https://aneeverse.github.io/WebSites/Creamery) <br>
 
 <p style="text-align: center;"><u><b>DOCUMENT WEBSITE (INCLUDE DATABASE)</u></b></p>
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [GRA_Certificate](https://aneeverse.github.io/WebSites/GRA_Certificate/)
 $~~~~~~~~~~~~~~~~~~$ 
-**Web:** [GRA_Certificate_02](https://github.com/AneeVerse/GRA_Certificate_02) <br>
+**Web:** [GRA_Certificate_02](https://aneeverse.github.io/AneeVerse/GRA_Certificate_02) <br>
 
 
 
 
 - 📫 How to reach me **4d.x.art@gmail.com**
 
-- 📄 Know about my experiences [AneeVerse](https://github.com/AneeVerse/AneeVerse)
+- 📄 Know about my experiences [AneeVerse](https://aneeverse.github.io/AneeVerse/AneeVerse)
 
-- 📄 My Resume (CV) [Anees Portfolio](https://github.com/AneeVerse/WebSites/Anees_Portfolio)
+- 📄 My Resume (CV) [Anees Portfolio](https://aneeverse.github.io/AneeVerse/WebSites/Anees_Portfolio)
 
 - ⚡ Fun fact **I have learned all about tech by myself, I would Like if you help me getting the recourses for gathering more knowledge**
 
