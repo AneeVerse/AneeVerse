@@ -44,10 +44,9 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Few of my projects 
-**My Website -->** [AneeVerse ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website**
-<br>
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **Website** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
+**My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website** <br>  
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Website** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
 $~~~~~~~~~~$ **GitHub Page** [Shree Hospital ](https://github.com/AneeVerse/ShreeHospital)
 <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
@@ -56,7 +55,7 @@ $~~~$ **GitHub Page** [Nemat Consultancy](https://github.com/AneeVerse/Nemat_Con
 <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Website** [The Brokerz](https://aneeverse.github.io/Nemat_Consultancy/)
-$~~~$ **GitHub Page** [Nemat Consultancy](https://github.com/AneeVerse/Nemat_Consultancy)
+$~~~~~~~~~~~~~~$ **GitHub Page** [The Brokerz](https://github.com/AneeVerse/Nemat_Consultancy)
 <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Website** [Ankit Portfolio](https://aneeverse.github.io/Ankit_portfolio/)
