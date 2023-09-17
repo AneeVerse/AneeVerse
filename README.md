@@ -70,11 +70,11 @@ $~~~~~~~~~~~~~~~~~~~~~~$
 
 
 **STORE WEBSITE**
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal1](https://aneeverse.github.io/WebSites/meal1/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [eBay-Discription-Template](https://aneeverse.github.io/WebSites/eBay-Discription-Template) <br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Meal2](https://aneeverse.github.io/WebSites/meal2/)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Creamery](https://aneeverse.github.io/WebSites/creamery) <br>
