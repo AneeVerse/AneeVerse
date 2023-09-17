@@ -46,38 +46,58 @@
 - 👨‍💻 Few of my projects 
 **My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website** <br>
 
+
+<p style="text-align: center;"><u><b>COMMERCIAL WEBSITE</u></b></p>
+
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
-$~~~~~~~~~~$ **GitHub Page** [Shree Hospital ](https://github.com/AneeVerse/ShreeHospital)
-<br>
+**Web:** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
+$~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Nemat Consultancy](https://aneeverse.github.io/Nemat_Consultancy) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [Nemat Consultancy](https://aneeverse.github.io/Nemat_Consultancy/)
-$~~~$ **GitHub Page** [Nemat Consultancy](https://github.com/AneeVerse/Nemat_Consultancy)
-<br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [The Brokerz](https://aneeverse.github.io/Nemat_Consultancy/)
-$~~~~~~~~~~~~~~$ **GitHub Page** [The Brokerz](https://github.com/AneeVerse/Nemat_Consultancy)
-<br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [Ankit Portfolio](https://aneeverse.github.io/Ankit_portfolio/)
-$~~~~~~~~~~~$ **GitHub Page** [Ankit Portfolio](https://github.com/AneeVerse/Ankit_portfolio)
-<br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [My 1st Portfolio](https://aneeverse.github.io/portfolio/)
-$~~~~~~~~~$ **GitHub Page** [My 1st Portfolio](https://github.com/AneeVerse/portfolio)
-<br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Website** [AneeVerse2](https://aneeverse.github.io/AneeVerse2/)
-$~~~~~~~~~~~~~~~$ **GitHub Page** [AneeVerse2](https://github.com/AneeVerse/AneeVerse2)
+**Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse/)
+$~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [The_Brokerz](https://aneeverse.github.io/WebSites/The_Brokerz) <br>
 
 
+
+<p style="text-align: center;"><u><b>PERSONAL PORTFOLIO WEBSITE</u></b></p>
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2/)
+$~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Anees Portfolio](https://aneeverse.github.io/WebSites/Anees_Portfolio) <br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Amishi Portfolio](https://aneeverse.github.io/WebSites/Amishi_Portfolio/)
+$~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Ankit Portfolio](https://aneeverse.github.io/WebSites/Ankit_portfolio) <br>
+
+
+<p style="text-align: center;"><u><b>STORE WEBSITE</u></b></p>
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Meal1](https://aneeverse.github.io/WebSites/Meal1/)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [eBay-Discription-Template](https://github.com/WebSites/eBay-Discription-Template) <br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Meal2](https://aneeverse.github.io/WebSites/Meal2/)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [Creamery](https://github.com/WebSites/Creamery) <br>
+
+<p style="text-align: center;"><u><b>DOCUMENT WEBSITE (INCLUDE DATABASE)</u></b></p>
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+**Web:** [GRA_Certificate](https://aneeverse.github.io/WebSites/GRA_Certificate/)
+$~~~~~~~~~~~~~~~~~~$ 
+**Web:** [GRA_Certificate_02](https://github.com/AneeVerse/GRA_Certificate_02) <br>
 
 
 
 
 - 📫 How to reach me **4d.x.art@gmail.com**
 
-- 📄 Know about my experiences [anees.ml](anees.ml)
+- 📄 Know about my experiences [AneeVerse](https://github.com/AneeVerse/AneeVerse)
+
+- 📄 My Resume (CV) [Anees Portfolio](https://github.com/AneeVerse/WebSites/Anees_Portfolio)
 
 - ⚡ Fun fact **I have learned all about tech by myself, I would Like if you help me getting the recourses for gathering more knowledge**
 
