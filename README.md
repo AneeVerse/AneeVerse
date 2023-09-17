@@ -44,7 +44,8 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Few of my projects 
-**My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website** <br>  
+**My Website -->** [**AneeVerse** ](https://aneeverse.github.io/AneeVerse/)   **<-- My Website** <br>
+
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Website** [Shree Hospital](https://aneeverse.github.io/ShreeHospital/)
 $~~~~~~~~~~$ **GitHub Page** [Shree Hospital ](https://github.com/AneeVerse/ShreeHospital)
