@@ -63,11 +63,11 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~$
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **PERSONAL PORTFOLIO WEBSITE**
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2)
+**Web:** [AneeVerse](https://aneeverse.github.io/AneeVerse)
 $~~~~~~~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Anees Portfolio](https://aneeverse.github.io/WebSites/Anees_Portfolio) <br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-**Web:** [Amishi Portfolio](https://aneeverse.github.io/WebSites/Amishi_Portfolio)
+**Web:** [AneeVerse2](https://aneeverse.github.io/WebSites/AneeVerse2)
 $~~~~~~~~~~~~~~~~~~$ 
 **Web:** [Ankit Portfolio](https://aneeverse.github.io/WebSites/Ankit_portfolio) <br>
 
