@@ -1,0 +1,64 @@
+1. BLOG TITLE:
+a. Client Presentation Assets, SMERUSH, GSC and General Google Search
+b. Bring the three primary words as close to each other
+c. 2-3 Support keywords
+d. Other Sources - HARO, site:superside.com (+wyzowl), Slack Chatter and AI trends
+
+2. GEMINI:
+Use (https://aistudio.google.com/) - Give me 10 blog topics on "Interactive Product Demo" based on popular user/search intent.
+This gives us POV ideas and angles for Claude Prompt
+
+3. CLAUDE:
+Claude Prompt (Yes) - Follow my Writing Style Instructions. Write me a 600-word blog on - Interactive Product Demo for SaaS products - Experience of visitors, Impact on Conversions, When not to overdo? -VERSUS- Claude Prompt (No) - Follow my Writing Style Instructions. Write me a 600-word blog on - Interactive Product Demo.
+Claude Quotes are not reliable.
+Can later build/use a prompt to - Repeat keywords {x,y,z} once every 60 words. Ensure to evenly spread them to keep a consistent density. Make those keywords BOLD.
+
+4. HEADINGS (H2): 
+Manual process to include the primary keyword cluster.
+Mark as Heading and Subheading from the dropdown when writing on Linkedin
+
+5. SLUG:
+Title is used to create the URL slug. So be careful not to include numbers (2024, 11 ways) before publishing.
+Can add numbers AFTER publishing
+
+6. CB MENTIONS & UTM:
+Target URL = www.contentbeta.com/?utm_src=LK2
+3 times mention of CB Website (1 example, 1 CTA, 1 any) - target could be portfolio, pricing, book a discovery call; LinkedIn articles if contextual
+Plugin - This is what Content Beta did
+
+7. SEO SETTINGS:
+
+8. VISUAL ASSETS:
+Start from First Fold, Dont delay
+Visual screenshots with Company Logo (eg Wrike)
+https://gifcap.dev/
+
+9. GENERAL FORMAATTING:
+Consistency in Horizontal Line placement  (e.g. after Bigtime)
+
+10 LANGUAGE:
+No superlatives / generics. Cut it down with brutal effort
+
+11. POST TEASER:
+Copy blog text in Notepad and then Claude. We ll not go overboard with superlatives, tall claims. Prompt - "Create a 30-word Linkedin post using short sentences that act as a teaser to this article. Give me 5 options"
+
+12. BANNER:
+Using MidJourney that is catchy 
+_______________________________
+_______________________________
+
+Mandate - AI-first Writing, but Sounds like Human, written for Busy Digital Readers (Skimmers) from the Target Audience.
+
+1. AI-first Writing team, but reads like a Human (Pierre Herubel)
+- Activity where everyone gets benefitted of regular reading
+- Amazon Acc - Kindle - 1. Busy Digital Readers, 2. Nicholas Cole (RP)
+- POV: Search Intent, New Ideas from Twitter/LinkedIn.
+
+2. Writing for Busy Digital Readers (B2B)
+
+3. Basics are non-negotiable - Hemmingway App, 
+
+4. Understanding the Ecosystem in which we operate - What does CB do? CB Competition? What do they do? How is our product used?   Case Study? Check Portfolio frequently.
+
+
+

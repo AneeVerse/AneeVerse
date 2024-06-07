@@ -1,0 +1,7 @@
+.elementor-widget:not(:last-child) {
+    margin-bottom: 0px !important;
+}
+table.xdebug-error.xe-notice {
+	font-size: 16px;
+	line-height: 1.8;
+}

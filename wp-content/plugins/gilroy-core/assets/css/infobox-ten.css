@@ -1,0 +1,29 @@
+
+.chy-about-4-feature-item {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid rgba(19, 24, 53, 0.1);
+  }
+  .chy-about-4-feature-item:not(:last-child) {
+    margin-bottom: 25px;
+  }
+  .chy-about-4-feature-item .icon {
+    flex: 0 0 auto;
+    width: 78px;
+    height: 84px;
+    background: linear-gradient(90deg, #5A1CCB -2.17%, #815EDC 100%);
+    border-radius: 50px 6px 6px 6px;
+    text-align: center;
+    line-height: 103px;
+    color: #fff;
+    font-size: 40px;
+  }
+  .chy-about-4-feature-item .title {
+    font-size: 24px;
+    line-height: 1.16;
+    margin-bottom: 4px;
+  }
+  .chy-about-4-feature-item .disc {
+    line-height: 26px;
+  }
