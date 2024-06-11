@@ -1633,7 +1633,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 
 .gly-home-2 {
-  background-color: #030406;
+  background-color: #090909;
 }
 
 .gly-split-text {
@@ -2726,7 +2726,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-weight: 700;
   text-transform: capitalize;
   line-height: 1.33;
-  color: var(--gly-heading-3);
+  color: var(---heading-3);
   font-size: 55px;
   margin-bottom: 25px;
 }
@@ -2777,7 +2777,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   color: var(--gly-para-4);
 }
 .gly-para-3:is(.has-white) {
-  color: #fff;
+  color: #a80000;
 }
 
 /*
@@ -2791,12 +2791,12 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-family: var(--montserrat);
   text-transform: uppercase;
   font-weight: 600;
-  color: var(--gly-sd-2);
+  /* color: var(--gly-sd-2); */
   line-height: 26px;
   font-size: 14px;
   letter-spacing: 0.6px;
   padding: 4px 20px;
-  background-color: #F8ECFF;
+  background-color: #ffffff;
   border-radius: 100px;
   margin-bottom: 15px;
 }
@@ -2826,7 +2826,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   z-index: 9;
 }
 .gly-header-1-area:is(.gly_sticky_show) {
-  background: #000;
+  background: #dbd7d7;
 }
 .gly-header-1-area .left-shape-wrap {
   position: relative;
