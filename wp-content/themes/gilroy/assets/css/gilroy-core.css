@@ -3879,8 +3879,8 @@ input:focus::placeholder, textarea:focus::placeholder {
     hero-1-css-start
 */
 .gly-hero-1-area {
-  background: #131518;
-  padding-top: 430px;
+  background: #000000;
+  padding-top: 215px;
   padding-bottom: 150px;
   position: relative;
   z-index: 1;

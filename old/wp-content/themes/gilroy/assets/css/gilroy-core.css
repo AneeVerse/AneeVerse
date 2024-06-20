@@ -2395,7 +2395,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   height: 60px;
   border-radius: 50%;
   background: var(--gd-4);
-  color: #fff;
+  color: #cc1b38;
   text-align: center;
   line-height: 60px;
   font-size: 22px;
@@ -2421,13 +2421,13 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 .gly-pr-btn-5:hover {
   transform: translateX(60px);
-  color: #fff;
+  color: #e40606;
 }
 .gly-pr-btn-5:hover::after {
   opacity: 1;
 }
 .gly-pr-btn-5:hover .text {
-  -webkit-text-fill-color: #fff;
+  -webkit-text-fill-color: #df1818;
 }
 .gly-pr-btn-5:hover .icon {
   left: -60px;
@@ -2453,7 +2453,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   margin-bottom: 0px;
 }
 .gly-heading-1:is(.has-white) {
-  color: #fff;
+  color: #e91d1d;
 }
 .gly-heading-1:is(.has-color-2) {
   color: var(--gly-heading-2);
@@ -2485,7 +2485,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   margin-bottom: 0px;
 }
 .gly-para-1:is(.has-white) {
-  color: #fff;
+  color: #e60505;
 }
 
 .gly-para-2 {

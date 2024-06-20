@@ -2421,7 +2421,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 .gly-pr-btn-5:hover {
   transform: translateX(60px);
-  color: #fff;
+  color: #a80e0e;
 }
 .gly-pr-btn-5:hover::after {
   opacity: 1;
