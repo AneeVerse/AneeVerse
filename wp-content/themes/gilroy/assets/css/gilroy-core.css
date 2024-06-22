@@ -6996,7 +6996,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   position: relative;
   z-index: 1;
   clip-path: polygon(0 0, 100% 4.5%, 100% 100%, 0 100%);
-  margin-top: -210px;
+  margin-top: 0px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .gly-project-3-area {
@@ -7009,7 +7009,7 @@ input:focus::placeholder, textarea:focus::placeholder {
     padding-bottom: 131px;
     padding-top: 130px;
     clip-path: polygon(0 0, 100% 3.5%, 100% 100%, 0 100%);
-    margin-top: -102px;
+    margin-top: 0px;
   }
 }
 @media (max-width: 767px) {
@@ -7017,7 +7017,7 @@ input:focus::placeholder, textarea:focus::placeholder {
     padding-bottom: 131px;
     padding-top: 130px;
     clip-path: polygon(0 0, 100% 2%, 100% 100%, 0 100%);
-    margin-top: -102px;
+    margin-top: 0px;
   }
 }
 .gly-project-3-bg-img {
