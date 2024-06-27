@@ -10,7 +10,7 @@ url("../fonts/flaticon_gly.svg?dd8905c86ef9190d7bd7756017edb6f1#flaticon_gly") f
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_gly !important;
+    font-family: "flaticon_gly" !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -18,6 +18,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    
 }
 
 .flaticon-left-chevron:before {

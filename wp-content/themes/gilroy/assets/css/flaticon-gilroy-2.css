@@ -10,7 +10,7 @@ url("../fonts/flaticon_gilroy_digital_agency.svg?bb382bc3f02bdac3fe2b7b32dc31147
 }
 
 i[class^="flaticon2-"]:before, i[class*=" flaticon2-"]:before {
-    font-family: flaticon_gilroy_digital_agency !important;
+    font-family: "flaticon_gilroy_digital_agency" !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;

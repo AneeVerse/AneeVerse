@@ -2692,7 +2692,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   display: inline-block;
   width: 62px;
   height: 2px;
-  background: linear-gradient(90deg, rgb(16, 66, 242) 0%, rgba(0, 212, 255, 0) 100%);
+  background: linear-gradient(90deg, #f28541 0%, rgba(0, 212, 255, 0) 100%);
   flex: 0 0 auto;
   transform-origin: left;
   transform: scaleX(0%);
@@ -8108,7 +8108,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   flex: 0 0 auto;
   width: 95px;
   height: 95px;
-  border: 1px var(--gly-pr-2);
+  border: 1px #f28541;
   border-style: dashed;
   border-radius: 50%;
   display: flex;
@@ -8116,7 +8116,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   align-items: center;
   line-height: 0.65;
   font-size: 60px;
-  color: var(--gly-pr-2);
+  color: #f28541;
 }
 .gly-campaign-3-feature .title {
   font-size: 22px;
