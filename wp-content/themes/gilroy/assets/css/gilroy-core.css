@@ -2456,7 +2456,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   color: #fff;
 }
 .gly-heading-1:is(.has-color-2) {
-  color: var(--gly-heading-2);
+  color: #fff;
 }
 
 .gly-subtitle-1 {
@@ -2465,12 +2465,13 @@ input:focus::placeholder, textarea:focus::placeholder {
   display: inline-block;
   background: var(--gly-gd-1);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #BDFF00;
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
   margin-bottom: 10px;
 }
+
 .gly-subtitle-1 i {
   display: inline-block;
   margin-right: 3px;
@@ -2493,7 +2494,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-weight: 400;
   line-height: 32px;
   font-size: 18px;
-  color: var(--gly-para-2);
+  color: #AAAAAA;
   margin-bottom: 0px;
 }
 .gly-para-2:is(.has-white) {
@@ -2548,7 +2549,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-section-title-1 .has-stoke {
   font-family: var(--archivo);
   margin-left: 5px;
-  -webkit-text-stroke: 2px var(--gly-heading-1);
+  -webkit-text-stroke: 2px #AAAAAA;
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
@@ -9912,7 +9913,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   margin-left: auto;
   margin-right: auto;
   margin-top: -160px;
-  background: #fff;
+  background: black;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -9931,7 +9932,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-experience-1-counter {
   border-radius: 90px;
   width: 100%;
-  background: #d3f277;
+  background: #4100FF;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9940,6 +9941,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-experience-1-counter .number {
   font-size: 87px;
   line-height: 1;
+  color: #ffffff;
 }
 @media (max-width: 767px) {
   .gly-experience-1-counter .number {
@@ -9954,7 +9956,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 
 .gly-experience-1-slider {
   border-radius: 90px;
-  background-color: #2632eb;
+  background-color: #EBF544;
   width: 100%;
   height: 397px;
   padding: 25px 55px;
@@ -10034,7 +10036,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   content: "";
   width: 1px;
   height: 92%;
-  background: #f7f7f7;
+  background: black;
   position: absolute;
   left: 107%;
   top: 50%;
@@ -10052,7 +10054,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 
 .gly-experience-1-list {
-  background: var(--gly-gd-1);
+  background: #BDFF00;
   display: flex;
   align-items: center;
   padding: 25px 30px;
@@ -10060,12 +10062,15 @@ input:focus::placeholder, textarea:focus::placeholder {
   max-width: 570px;
   gap: 10px;
   flex-wrap: wrap;
+  position: relative;
+  bottom: 50px;
 }
 .gly-experience-1-list .list-item {
   font-size: 15px;
   text-transform: capitalize;
   font-weight: 500;
   line-height: 30px;
+  color: black;
 }
 .gly-experience-1-list .list-item i {
   font-size: 12px;
