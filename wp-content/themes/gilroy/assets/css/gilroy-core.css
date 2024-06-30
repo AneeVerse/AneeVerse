@@ -4681,6 +4681,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-hero-4-slider .swiper-container .swiper-slide {
   overflow: hidden;
 }
+
 .gly-hero-4-slider .swiper-container .swiper-slide:is(.swiper-slide-active) .gly-hero-4-slider-item-shape {
   bottom: -395px;
   left: 210px;
