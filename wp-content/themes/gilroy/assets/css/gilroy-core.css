@@ -2792,12 +2792,12 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-family: var(--montserrat);
   text-transform: uppercase;
   font-weight: 600;
-  color: var(--gly-sd-2);
+  color: #04E623;
   line-height: 26px;
   font-size: 14px;
   letter-spacing: 0.6px;
   padding: 4px 20px;
-  background-color: #F8ECFF;
+  background-color: rgba(6,162,27,0.2);
   border-radius: 100px;
   margin-bottom: 15px;
 }
@@ -4681,6 +4681,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-hero-4-slider .swiper-container .swiper-slide {
   overflow: hidden;
 }
+
 .gly-hero-4-slider .swiper-container .swiper-slide:is(.swiper-slide-active) .gly-hero-4-slider-item-shape {
   bottom: -395px;
   left: 210px;
@@ -13362,9 +13363,10 @@ team-details-page
   display: inline-block;
   width: 100%;
   height: 2px;
-  background: #070917;
+  background: #03C5D5;
   opacity: 15%;
 }
+
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .gly-process-4-item .line {
     opacity: 0;
@@ -13374,7 +13376,7 @@ team-details-page
   display: block;
   font-size: 56px;
   line-height: 1.17;
-  color: rgba(254, 117, 36, 0.15);
+  color: rgba(3, 197, 213, 0.15);
   position: relative;
   z-index: 1;
   margin-right: 90px;
@@ -13388,7 +13390,7 @@ team-details-page
   position: absolute;
   right: -20px;
   top: 0;
-  background: var(--gly-gd-2);
+  background: #03C5D5;
 }
 .gly-process-4-item .item-title {
   font-size: 24px;
