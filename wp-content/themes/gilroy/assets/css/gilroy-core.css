@@ -5589,7 +5589,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   color: var(--gly-sd-2);
   font-size: 40px;
   line-height: 0.5;
-  background: #F3E2FF;
+  background: #0b1926;
   border-radius: 10px;
   display: flex;
   justify-content: center;
