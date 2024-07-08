@@ -2465,7 +2465,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   display: inline-block;
   background: var(--gly-gd-1);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: #BDFF00;
+  -webkit-text-fill-color: #66fcf1;
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
