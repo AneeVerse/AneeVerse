@@ -10,11 +10,11 @@
   --urbanist: "Urbanist", sans-serif;
   --black-color: #000000;
   --white-color: #fff; 
-  --gly-pr-1: #66fcf1;
-  --gly-pr-2: #45a29f;
-  --gly-pr-3: #66fcf1;
-  --gly-sd-1: #45a29f;
-  --gly-sd-2: #66fcf1;
+  --gly-pr-1: #5cff85;
+  --gly-pr-2: #024b3b;
+  --gly-pr-3: #5cff85;
+  --gly-sd-1: #024b3b;
+  --gly-sd-2: #5cff85;
   --gly-heading-1: #181717;
   --gly-heading-2: #363539;
   --gly-heading-3: #0F0D1E;
@@ -23,8 +23,8 @@
   --gly-para-2: #363539;
   --gly-para-3: #484655;
   --gly-para-4: #454753;
-  --gly-gd-1: linear-gradient( 90deg, rgb(102, 252, 241) 0%, rgb(69, 162, 159) 100%);
-  --gly-gd-2: linear-gradient(90deg, rgb(102, 252, 241) 0%, rgb(69, 162, 159) 100%);
+  --gly-gd-1: linear-gradient( 90deg, rgb(2, 75, 59) 0%, rgb(92, 255, 133) 100%);
+  --gly-gd-2: linear-gradient(90deg, rgb(2, 75, 59) 0%, rgb(92, 255, 133) 100%);
   --cube-1: cubic-bezier(.23,1,.32,1);
   --cube-2: cubic-bezier(0.31, -0.105, 0.43, 1.4);
 }
@@ -104,19 +104,19 @@ h6 {
 }
 
 ::-moz-selection {
-  background-color: #45a29f;
+  background-color: #024b3b;
   color: white;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background-color: #45a29f;
+  background-color: #024b3b;
   color: white;
   text-shadow: none;
 }
 
 ::selection {
-  background-color: #45a29f;
+  background-color: #024b3b;
   color: white;
   text-shadow: none;
 }
@@ -145,7 +145,7 @@ input:focus::placeholder, textarea:focus::placeholder {
     border: none;
   }
   ::-webkit-scrollbar-thumb {
-    background: linear-gradient(36deg, #45a29f 0%, #f000ff 100%);
+    background: linear-gradient(36deg, #024b3b 0%, #f000ff 100%);
     border-radius: 30px;
   }
 }
@@ -1664,7 +1664,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-size: 20px;
   background: var(--gly-gd-1);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #5cff85;
   transition: 400ms var(--cube-2);
   position: relative;
   z-index: 2;
@@ -1985,7 +1985,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   line-height: 30px;
   padding: 15px 30px;
   border-radius: 11px;
-  background: #45a29f;
+  background: #024b3b;
   transition: 400ms var(--cube-1);
   position: relative;
   z-index: 1;
@@ -2036,7 +2036,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   background: transparent;
 }
 .gly-pr-btn-3:is(.has-border):hover {
-  background: #45a29f;
+  background: #024b3b;
   border-color: transparent;
 }
 .gly-pr-btn-3:is(.has-border-color) {
@@ -2045,7 +2045,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   color: var(--gly-pr-2);
 }
 .gly-pr-btn-3:is(.has-border-color):hover {
-  background: #45a29f;
+  background: #024b3b;
   border-color: transparent;
   color: #fff;
 }
@@ -2088,10 +2088,10 @@ input:focus::placeholder, textarea:focus::placeholder {
   transition: 400ms var(--cube-2);
 }
 .gd-border-btn-1:is(.has-color-2) {
-  background: linear-gradient(90deg, rgb(69, 162, 159) 0%, rgb(102, 252, 241) 50%, rgb(11, 189, 156) 100%);
+  background: linear-gradient(90deg, rgb(92, 255, 133) 0%, rgb(2, 75, 59) 50%, rgb(11, 189, 156) 100%);
 }
 .gd-border-btn-1:is(.has-color-3) {
-  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(102, 252, 241) 50%, rgb(69, 162, 159) 100%);
+  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
 }
 .gd-border-btn-1:hover .gd-border {
   background-color: transparent;
@@ -2168,7 +2168,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  background: #45a29f;
+  background: #024b3b;
   color: #fff;
   font-size: 20px;
   line-height: 1;
@@ -2465,7 +2465,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   display: inline-block;
   background: var(--gly-gd-1);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: #66fcf1;
+  -webkit-text-fill-color: #5cff85;
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
@@ -2494,7 +2494,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-weight: 400;
   line-height: 32px;
   font-size: 18px;
-  color: #rgb(102, 252, 241)AA;
+  color: #rgb(2, 75, 59)AA;
   margin-bottom: 0px;
 }
 .gly-para-2:is(.has-white) {
@@ -2792,12 +2792,12 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-family: var(--montserrat);
   text-transform: uppercase;
   font-weight: 600;
-  color: #45a29f;
+  color: #024b3b;
   line-height: 26px;
   font-size: 14px;
   letter-spacing: 0.6px;
   padding: 4px 20px;
-  background-color: #66fcf1;
+  background-color: #5cff85;
   border-radius: 100px;
   margin-bottom: 15px;
 }
@@ -3301,7 +3301,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   left: 0;
   width: 70%;
   height: 106px;
-  background: #66fcf1;
+  background: #5cff85;
   border-radius: 0 100px 100px 0;
   z-index: -2;
 }
@@ -3345,10 +3345,10 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-header-4-action-link .gly-phone-btn-1-icon {
   width: 58px;
   height: 58px;
-  background: #66fcf1;
+  background: #5cff85;
 }
 .gly-header-4-action-link .gly-phone-btn-1:hover .gly-phone-btn-1-text .number {
-  color: #66fcf1;
+  color: #5cff85;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .gly-header-4-action-link .gly-cart-btn-1 {
@@ -3398,7 +3398,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   width: 85%;
   height: 106px;
   border-radius: 0 100px 100px 0;
-  background: #66fcf1;
+  background: #5cff85;
   z-index: -3;
 }
 .gly-header-4-area .gly-header-3-bottom-bg-2 {
@@ -3447,7 +3447,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   width: 40.5%;
   height: 100%;
   background: #171924;
-  border-left: 2px solid #66fcf1;
+  border-left: 2px solid #5cff85;
   border-radius: 100px 0 0 100px;
   z-index: -1;
 }
@@ -5400,7 +5400,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   content: "";
   width: 100%;
   height: 100%;
-  background: #45a29f;
+  background: #024b3b;
   position: absolute;
   top: 0;
   left: 0;
@@ -6000,7 +6000,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   background: #5454c5;
 }
 .gly-services-2-item:is(.has-style-2) .gly-services-2-item-btn {
-  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(102, 252, 241) 50%, rgb(69, 162, 159) 100%);
+  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
 }
 .gly-services-2-item:hover .item-icon i {
   animation: shakeup 150ms 2 linear;
@@ -9512,7 +9512,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   padding: 19px 37px;
 }
 .gly-portfolio-2-tabs-btn .gd-border-btn-1:is(.active) {
-  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(102, 252, 241) 50%, rgb(69, 162, 159) 100%);
+  background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
 }
 .gly-portfolio-2-tabs-btn .gd-border-btn-1:is(.active) .gd-border {
   background-color: #030406;
@@ -10858,7 +10858,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   display: inline-block;
   background: #fff;
   font-weight: 600;
-  color: #66fcf1;
+  color: #5cff85;
   font-size: 18px;
   line-height: 30px;
   border-radius: 100px;
@@ -10873,7 +10873,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   opacity: 1;
 }
 .gly-blog-4-card:hover .card-content-wrap {
-  background: #66fcf1;
+  background: #5cff85;
 }
 .gly-blog-4-card:hover .card-title {
   color: #fff;
@@ -11795,7 +11795,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 
 .gly-price-2-box {
-  background: linear-gradient(0deg, rgb(169, 14, 109) 0%, rgb(102, 252, 241) 50%, rgb(69, 162, 159) 100%);
+  background: linear-gradient(0deg, rgb(169, 14, 109) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
   border-radius: 20px;
   max-width: 535px;
 }
