@@ -2549,7 +2549,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 .gly-section-title-1 .has-stoke {
   font-family: var(--archivo);
   margin-left: 5px;
-  -webkit-text-stroke: 2px #rgb(102, 252, 241)AA;
+  -webkit-text-stroke: 2px #fff;
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
