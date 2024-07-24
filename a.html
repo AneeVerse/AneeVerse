@@ -3,92 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autoplay Video with Volume Control</title>
+    <title>Instagram Feed</title>
     <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            height: 100%;
-            width: 100%;
+        .instagram-posts {
             display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #000;
+            flex-wrap: wrap;
+            gap: 10px;
         }
-        .video-container {
-            position: relative;
-            width: 80%;
-            max-width: 800px;
-        }
-        video {
-            width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-        .volume-control {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            border: none;
-            border-radius: 25px;
-            width: 50px;
-            height: 50px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            cursor: pointer;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: all 0.3s ease;
-            overflow: hidden;
-        }
-        .volume-control:hover {
-            background-color: rgba(0, 0, 0, 0.9);
-            width: 150px;
-        }
-        .volume-control img {
-            width: 24px;
-            height: 24px;
-        }
-        .volume-text {
-            opacity: 0;
-            margin-left: 10px;
-            white-space: nowrap;
-            transition: opacity 0.3s ease;
-        }
-        .volume-control:hover .volume-text {
-            opacity: 1;
+        .instagram-post {
+            width: 100px;
+            height: 100px;
+            background-size: cover;
+            background-position: center;
         }
     </style>
 </head>
 <body>
+    <h1>My Recent Instagram Posts</h1>
+    <div id="instagram-feed" class="instagram-posts"></div>
 
-<div class="video-container">
-    <video id="myVideo" autoplay muted>
-        <source src="/wp-content/AneeVerse 2nd draft_2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <button class="volume-control" onclick="toggleVolume()">
-        <img id="volumeIcon" src="https://img.icons8.com/material-outlined/24/ffffff/mute.png" alt="Volume Icon">
-        <span class="volume-text">Click for sound</span>
-    </button>
-</div>
+    <script>
+        const accessToken = 'YOUR_ACCESS_TOKEN'; // Replace with your Instagram access token
+        const userId = 'aneeverse.ai'; // Replace with your Instagram user ID
+        const postCount = 5;
 
-<script>
-    function toggleVolume() {
-        var video = document.getElementById("myVideo");
-        var volumeIcon = document.getElementById("volumeIcon");
-        if (video.muted) {
-            video.muted = false;
-            volumeIcon.src = "https://img.icons8.com/material-outlined/24/ffffff/high-volume.png";
-        } else {
-            video.muted = true;
-            volumeIcon.src = "https://img.icons8.com/material-outlined/24/ffffff/mute.png";
+        async function fetchInstagramPosts() {
+            const response = await fetch(`https://graph.instagram.com/${userId}/media?fields=id,media_type,media_url,thumbnail_url,permalink&access_token=${accessToken}&limit=${postCount}`);
+            const data = await response.json();
+            return data.data;
         }
-    }
-</script>
 
+        async function displayInstagramPosts() {
+            const posts = await fetchInstagramPosts();
+            const feedContainer = document.getElementById('instagram-feed');
+
+            posts.forEach(post => {
+                const postElement = document.createElement('a');
+                postElement.href = post.permalink;
+                postElement.target = '_blank';
+                postElement.className = 'instagram-post';
+                postElement.style.backgroundImage = `url(${post.media_url || post.thumbnail_url})`;
+
+                feedContainer.appendChild(postElement);
+            });
+        }
+
+        displayInstagramPosts();
+    </script>
 </body>
 </html>

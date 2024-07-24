@@ -2088,7 +2088,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   transition: 400ms var(--cube-2);
 }
 .gd-border-btn-1:is(.has-color-2) {
-  background: linear-gradient(90deg, rgb(92, 255, 133) 0%, rgb(2, 75, 59) 50%, rgb(11, 189, 156) 100%);
+  background: linear-gradient(90deg, rgb(92, 255, 133) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
 }
 .gd-border-btn-1:is(.has-color-3) {
   background: linear-gradient(90deg, rgb(169, 14, 109) 0%, rgb(2, 75, 59) 50%, rgb(92, 255, 133) 100%);
